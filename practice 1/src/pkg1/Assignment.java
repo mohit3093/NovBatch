@@ -30,6 +30,7 @@ public class Assignment
 		int y3;
 		y3=y1/y2;
 		System.out.println("div result is " + y3);
+		System.out.println("hello world");
 	}
 	public static void main(String[] args) 
 	{
